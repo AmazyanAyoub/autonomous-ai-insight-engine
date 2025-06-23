@@ -1,3 +1,38 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore logs
+*.log
+
+# Ignore dotenv/config
 .env
 researches.ipynb
-chroma
+# Ignore SQLite or debug DBs
+*.sqlite3
+*.db
+
+# Ignore test files
+tests/
+*.test.py
+*_test.py
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled files
+*.so
+*.egg-info/
+dist/
+build/
