@@ -1,0 +1,2 @@
+Title: Challenges in Using GraphQL 
+ Despite its flexibility, GraphQL introduces challenges like complex caching, rate-limiting, and overexposure of schema internals. It also demands new skills and tooling for monitoring and security.

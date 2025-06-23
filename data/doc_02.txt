@@ -1,0 +1,2 @@
+Title: When to Use REST vs GraphQLREST 
+ APIs work well for simple CRUD operations and caching. GraphQL is better for complex queries and flexible frontend needs. Enterprises choose based on data shape complexity and team expertise.

@@ -1,0 +1,2 @@
+Title: Using AI for Customer Support 
+ AI tools like chatbots and virtual agents reduce response times and increase availability. NLP-powered systems can resolve common issues without human intervention, improving scalability and user satisfaction.

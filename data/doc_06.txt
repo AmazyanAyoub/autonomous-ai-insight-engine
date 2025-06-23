@@ -1,0 +1,2 @@
+Title: Benefits of Microservices 
+ Microservices promote modularity, scalability, and easier maintenance. They allow independent deployment of services and improve fault isolation across components in large systems.

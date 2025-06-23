@@ -1,0 +1,2 @@
+Title: LLMs in Knowledge Management 
+ Large Language Models can summarize documents, extract insights, and provide semantic search. Enterprises are integrating LLMs into their knowledge workflows to surface relevant information faster.
